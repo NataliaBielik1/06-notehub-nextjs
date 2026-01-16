@@ -5,7 +5,7 @@ import Footer from "@/components/Footer/Footer";
 
 import "modern-normalize";
 import "./globals.css";
-import TanstackProvider from "@/components/TanstackProvider/TanstackProvider";
+import TanstackProvider from "@/components/TanstackProvider1/TanstackProvider";
 
 export const metadata: Metadata = {
   title: "NoteHub",
